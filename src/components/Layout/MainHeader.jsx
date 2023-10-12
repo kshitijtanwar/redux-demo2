@@ -1,5 +1,5 @@
 import CartButton from "../Cart/CartButton";
-import { cartActions } from "../../Store/cart-toggle";
+import { cartActions } from "../../Store/cart-ui";
 import classes from "./MainHeader.module.css";
 import { useDispatch } from "react-redux";
 
